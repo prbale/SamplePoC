@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AppBarTranslateScaleBehavior.iml" filepath="$PROJECT_DIR$/.idea/AppBarTranslateScaleBehavior.iml" />
-      <module fileurl="file://C:\Users\Prashant\AndroidStudioProjects\AppBarTranslateScaleBehavior\AppBarTranslateScaleBehaviorDemo.iml" filepath="C:\Users\Prashant\AndroidStudioProjects\AppBarTranslateScaleBehavior\AppBarTranslateScaleBehaviorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SamplePoC.iml" filepath="$PROJECT_DIR$/SamplePoC.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\Prashant\AndroidStudioProjects\AppBarTranslateScaleBehavior\app\app.iml" filepath="C:\Users\Prashant\AndroidStudioProjects\AppBarTranslateScaleBehavior\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appbar-translate-scale-behavior/appbar-translate-scale-behavior.iml" filepath="$PROJECT_DIR$/appbar-translate-scale-behavior/appbar-translate-scale-behavior.iml" />
-      <module fileurl="file://C:\Users\Prashant\AndroidStudioProjects\AppBarTranslateScaleBehavior\appbar-translate-scale-behavior\appbar-translate-scale-behavior.iml" filepath="C:\Users\Prashant\AndroidStudioProjects\AppBarTranslateScaleBehavior\appbar-translate-scale-behavior\appbar-translate-scale-behavior.iml" />
     </modules>
   </component>
 </project>
