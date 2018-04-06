@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "com.rany.albeg.wein.appbartranslatescalebehaviordemo"
+        applicationId "com.prbale.sampledemo"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
@@ -31,8 +31,5 @@ dependencies {
     compile 'com.mikhaellopez:circularimageview:3.0.2'
     compile 'im.dacer:AndroidCharts:1.0.4'
     implementation 'com.android.support:recyclerview-v7:25.3.1'
-
-    compile project(":appbar-translate-scale-behavior")
-
     testCompile 'junit:junit:4.12'
 }
